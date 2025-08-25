@@ -29,6 +29,6 @@ int main()
     {
         cout<<ch[i]<<" "<<hash[ch[i]]<<"\n";
     }
-
+//    kkkkkk
 
 }
